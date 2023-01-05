@@ -36,7 +36,7 @@
  ![image](https://user-images.githubusercontent.com/113594316/198233336-dd9f5c19-481b-486a-928a-99c32a732f89.png)
 
  ## OUTPUT
- ![EX_1 2 PRAVEEN](https://user-images.githubusercontent.com/112475766/210711898-e148b479-a5c4-42f1-bcb2-689c987fe78a.jpg)
+ ![EX_1 2 PRAVEEN](https://user-images.githubusercontent.com/112475766/210813980-19f078c0-718c-4ac9-8bf7-bad9a4d71728.jpg)
 
  
  ## RESULT
